@@ -1,0 +1,15 @@
+Biblioteca
+Diefferson, Jonas, Wesley.
+Desenvolvimento do Aplicativo:
+-Adicionar imagem no cadastro de livros;
+	*Refazer a função de adicionar livros a partir da biblioteca de fotos do celular e adicionar a função de tirar a foto com a câmera;->Diefferson
+-Refazer o layout do formulário de cadastro de livros;->Diefferson
+	*Retirar campo resumo, colocar campo gênero;
+	*Excluir cutter, observação= Avaliação;
+-Reestruturar o menu;  ->Jonas	
+	*Retirar Sair.
+-Modificar ícones; ->Jonas
+-Modificar o sobre;->Wesley	
+-Validar formulário de cadastro;->Wesley
+
+
